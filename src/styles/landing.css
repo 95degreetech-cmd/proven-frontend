@@ -1,0 +1,19 @@
+.landing {
+    /* Global styles for landing page */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.landing h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.landing p {
+    font-size: 1em;
+    line-height: 1.5;
+    text-align: center;
+}
